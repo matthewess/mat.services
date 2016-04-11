@@ -3,6 +3,25 @@
     font-family: -apple-system, 'BlinkyMacSystemFont', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
+nav {
+    background: #1e1e1e;
+    border-radius: 25px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: -5px;
+}
+
+nav a {
+    padding:; 3px;
+    color: #f7f7f7;
+}
+
+nav a.active {
+    padding: 3px;
+    color: #1e1e1e;
+    background: #f7f7f7;
+}
+
 hr {
     border: 0;
     height: 1px;
