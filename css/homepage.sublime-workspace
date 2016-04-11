@@ -1,0 +1,1110 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"asc",
+				"ascending"
+			],
+			[
+				"sort_",
+				"sort_by"
+			],
+			[
+				"dir",
+				"direction"
+			],
+			[
+				"sort_e",
+				"sort_entries_name_d"
+			],
+			[
+				"sor",
+				"sort_entries"
+			],
+			[
+				"fil",
+				"file_info"
+			],
+			[
+				"fi",
+				"file_info"
+			],
+			[
+				"docum",
+				"document"
+			],
+			[
+				"docu",
+				"document_sub"
+			],
+			[
+				"doc",
+				"document_sub"
+			],
+			[
+				"serv",
+				"server_p"
+			],
+			[
+				"ser",
+				"server_p"
+			],
+			[
+				"pthread_att",
+				"pthread_attr_t"
+			],
+			[
+				"poo",
+				"pool_serv"
+			],
+			[
+				"ful",
+				"full_dir_str"
+			],
+			[
+				"generate",
+				"generate_dir_html"
+			],
+			[
+				"res",
+				"resolved"
+			],
+			[
+				"start",
+				"starts_with"
+			],
+			[
+				"star",
+				"starts_with"
+			],
+			[
+				"end",
+				"ends_with"
+			],
+			[
+				"client",
+				"client_req"
+			],
+			[
+				"cli",
+				"client_req"
+			],
+			[
+				"cl",
+				"client_req"
+			],
+			[
+				"do",
+				"document"
+			],
+			[
+				"clien",
+				"client_req_str"
+			],
+			[
+				"request",
+				"request_str"
+			],
+			[
+				"reu",
+				"request_str"
+			],
+			[
+				"reque",
+				"request_str"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"arg",
+				"arg_index"
+			],
+			[
+				"int",
+				"interruptHandler"
+			],
+			[
+				"line",
+				"lines_to_source"
+			],
+			[
+				"_curre",
+				"_currentCommand"
+			],
+			[
+				"shell_path",
+				"shell_path_full"
+			],
+			[
+				"shell_p",
+				"shell_path_full"
+			],
+			[
+				"sour",
+				"source_file"
+			],
+			[
+				"YY",
+				"YY_BUF_SIZE"
+			],
+			[
+				"h",
+				"h_idx"
+			],
+			[
+				"n",
+				"n"
+			],
+			[
+				"expan",
+				"expanded_env"
+			],
+			[
+				"exp",
+				"expanded_env"
+			],
+			[
+				"child",
+				"child_exit_status"
+			],
+			[
+				"pipe",
+				"pipe_from_subshell"
+			],
+			[
+				"pip",
+				"pipe_to_subshell"
+			],
+			[
+				"pipe_",
+				"pipe_to_subshell"
+			],
+			[
+				"ex",
+				"expanded_env"
+			],
+			[
+				"_curr",
+				"_currentCommand"
+			],
+			[
+				"str",
+				"string_val"
+			],
+			[
+				"ne",
+				"next_suffix"
+			],
+			[
+				"REG",
+				"REG_NOSUB"
+			],
+			[
+				"add",
+				"added_regex"
+			],
+			[
+				"get",
+				"getAnnouncements"
+			],
+			[
+				"_cur",
+				"_currentSimpleCommand"
+			],
+			[
+				"_c",
+				"_currentSimpleCommand"
+			],
+			[
+				"to",
+				"tolower"
+			],
+			[
+				"sim",
+				"_simpleCommands"
+			],
+			[
+				"sort",
+				"sortStringNames"
+			],
+			[
+				"simple",
+				"simpleCommand"
+			],
+			[
+				"_curren",
+				"_currentSimpleCommand"
+			],
+			[
+				"_j",
+				"_jobsMap"
+			],
+			[
+				"_jo",
+				"_jobTable"
+			],
+			[
+				"_tid",
+				"_tidNext"
+			],
+			[
+				"_job",
+				"_jobTable"
+			],
+			[
+				"io",
+				"io_list"
+			],
+			[
+				"sa_",
+				"sa_mask"
+			],
+			[
+				"sig",
+				"sigemptyset"
+			],
+			[
+				"_",
+				"_jobTable"
+			],
+			[
+				"pid",
+				"pid_t"
+			],
+			[
+				"siz",
+				"size"
+			],
+			[
+				"_bui",
+				"_builtinMap"
+			],
+			[
+				"_b",
+				"_builtinFuncs"
+			],
+			[
+				"a",
+				"argument"
+			],
+			[
+				"pr",
+				"prompt"
+			],
+			[
+				"argu",
+				"argument_list"
+			],
+			[
+				"comam",
+				"command_list"
+			],
+			[
+				"_n",
+				"_numOfSimpleCommands"
+			],
+			[
+				"simpl",
+				"simpleCommand"
+			],
+			[
+				"_numOfAv",
+				"_numOfAvailableSimpleCommands"
+			],
+			[
+				"Simpl",
+				"SimpleCommand"
+			],
+			[
+				"max",
+				"MAXIMUM_REPORTS"
+			],
+			[
+				"las",
+				"last_report"
+			],
+			[
+				"MA",
+				"MAXIMUM_REPORTS"
+			],
+			[
+				"file",
+				"file_count"
+			],
+			[
+				"mem",
+				"mem_usage"
+			],
+			[
+				"cpu",
+				"cpu_usage_int"
+			],
+			[
+				"print",
+				"print_usage"
+			],
+			[
+				"MEM",
+				"MEM_THRESHOLD"
+			],
+			[
+				"CPU",
+				"CPU_THRESHOLD"
+			],
+			[
+				"A-Z",
+				"A-Za-z"
+			],
+			[
+				"work",
+				"workingObjectHeader"
+			],
+			[
+				"wor",
+				"workingObjectHeader-"
+			],
+			[
+				"left",
+				"leftNeighborFooter"
+			],
+			[
+				"Objec",
+				"ObjectFooter"
+			],
+			[
+				"heade",
+				"headerget"
+			],
+			[
+				"off",
+				"offsetCheck"
+			],
+			[
+				"prev",
+				"prevOffset"
+			],
+			[
+				"preV",
+				"prevoffset"
+			],
+			[
+				"_mem",
+				"_memStart"
+			],
+			[
+				"Obj",
+				"ObjectFooter"
+			],
+			[
+				"addHe",
+				"addHeader"
+			],
+			[
+				"feed",
+				"freedH"
+			],
+			[
+				"OBjec",
+				"ObjectFooter"
+			],
+			[
+				"Object",
+				"ObjectHeader"
+			],
+			[
+				"Ob",
+				"ObjectHeader"
+			],
+			[
+				"all",
+				"allocatedH"
+			],
+			[
+				"roun",
+				"roundedSize"
+			],
+			[
+				"curr",
+				"currentHeader-"
+			],
+			[
+				"curre",
+				"currentHeader-"
+			],
+			[
+				"next",
+				"nextHeader"
+			],
+			[
+				"current",
+				"currentHeader"
+			],
+			[
+				"Obje",
+				"ObjectHeader"
+			],
+			[
+				"header",
+				"header-"
+			],
+			[
+				"li",
+				"listens"
+			],
+			[
+				"Song",
+				"SongCollection"
+			],
+			[
+				"right",
+				"rightChild"
+			],
+			[
+				"min",
+				"minNextLevel"
+			],
+			[
+				"lef",
+				"leftChild"
+			],
+			[
+				"paretn",
+				"parenti"
+			],
+			[
+				"MSG",
+				"MSG_MATCH"
+			],
+			[
+				"ERR",
+				"ERR_BIPARTITE"
+			],
+			[
+				"adjac",
+				"adjacencies"
+			],
+			[
+				"grap",
+				"graphSize"
+			],
+			[
+				"adj",
+				"adjList"
+			],
+			[
+				"gra",
+				"graphSize"
+			],
+			[
+				"vert",
+				"vertVisited"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/matthew/Development/web/matthewess.github.io/index.htm",
+			"settings":
+			{
+				"buffer_size": 584,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "style.css",
+			"settings":
+			{
+				"buffer_size": 548,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "pack",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"glue",
+				"Glue - Launch"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"com",
+				"Git: Commit"
+			],
+			[
+				"add",
+				"Git: Add Current File"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"pull",
+				"Git: Pull"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"commit",
+				"Git: Commit"
+			],
+			[
+				"com	",
+				"Git: Commit"
+			],
+			[
+				"pack c in",
+				"Package Control: Install Package"
+			],
+			[
+				"ame",
+				"Git: Amend Commit"
+			],
+			[
+				"am",
+				"Git: Amend Commit"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"ad",
+				"Git: Add Current File"
+			],
+			[
+				"amd",
+				"Git: Amend Commit"
+			],
+			[
+				"git",
+				"Git: Diff Current File"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git pus",
+				"Git: Push"
+			],
+			[
+				"git ad",
+				"Git: Add Current File"
+			],
+			[
+				"paka inst",
+				"Package Control: Install Package"
+			],
+			[
+				"git p",
+				"Git: Pull"
+			],
+			[
+				"fold all",
+				"Code Folding: Unfold All"
+			],
+			[
+				"packag",
+				"Package Control: Remove Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"change",
+				"Changelog"
+			],
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"colors",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"packaga",
+				"Package Control: Install Package"
+			],
+			[
+				"pakac",
+				"Package Control: Remove Package"
+			],
+			[
+				"set sy js",
+				"Set Syntax: JSON"
+			],
+			[
+				"set s",
+				"Set Syntax: Python"
+			],
+			[
+				"sey",
+				"Set Syntax: YAML"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 195.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/matthew/Development/web/matthewess.github.io",
+		"/Users/matthew/Development/web/matthewess.github.io/css"
+	],
+	"file_history":
+	[
+		"/Users/matthew/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/matthew/Development/web/index.htm",
+		"/Users/matthew/Development/C/lab5-src/403err.htm",
+		"/Users/matthew/Development/C/lab5-src/400err.htm",
+		"/Users/matthew/Development/C/lab5-src/404err.htm",
+		"/Users/matthew/Development/C/lab5-src/405err.htm",
+		"/Users/matthew/Development/C/lab5-src/myhttpdold.cc",
+		"/Users/matthew/Development/C/lab5-src/myhttpd.cc",
+		"/Users/matthew/Development/C/lab3-src/command.h",
+		"/Users/matthew/Development/C/lab3-src/command.cc",
+		"/Users/matthew/Development/C/lab3-src/handling.cc",
+		"/Users/matthew/Development/C/lab3-src/shell.y",
+		"/Users/matthew/Development/C/lab3-src/jobtable.cc",
+		"/Users/matthew/Development/C/lab3-src/jobtable.h",
+		"/Users/matthew/Development/C/lab3-src/read-line.c",
+		"/Users/matthew/Development/C/lab3-src/shell.l",
+		"/Users/matthew/Development/C/lab3-src/builtin.cc",
+		"/Users/matthew/Development/C/lab3-src/Makefile",
+		"/Users/matthew/Development/C/lab3-src/tty-raw-mode.c",
+		"/Users/matthew/Development/C/lab3-src/read-line-example.c",
+		"/Users/matthew/Development/C/lab3-src/keyboard-example.c",
+		"/Users/matthew/Development/frontend/app/views/courses/student-course.html",
+		"/Users/matthew/Development/frontend/app/index.html",
+		"/Users/matthew/Development/frontend/terminal.glue",
+		"/Users/matthew/Development/frontend/.gitignore",
+		"/Users/matthew/Development/shell/monitor.sh",
+		"/Users/matthew/Development/shell/memmonitor.sh",
+		"/Users/matthew/Development/C/lab3-src/regular.cc",
+		"/Users/matthew/Development/C/lab3-src/ctrl-c.cc",
+		"/Users/matthew/Development/C/lab3-src/command.cc.original",
+		"/Users/matthew/Development/C/lab3-src/y.output",
+		"/Users/matthew/Development/C/lab3-src/shell.y.original",
+		"/Users/matthew/Development/C/lab3-src/y.tab.h",
+		"/Users/matthew/Development/C/lab3-src/y.tab.c",
+		"/Users/matthew/Development/C/lab3-src/command.h.original",
+		"/Users/matthew/Development/C/lab3-src/shell.l.original",
+		"/Users/matthew/Development/C/lab3-src/lex.yy.c",
+		"/Users/matthew/Documents/C/lab3-src/lex.yy.c",
+		"/Users/matthew/Documents/C/lab3-src/shell.y",
+		"/Users/matthew/Documents/C/lab3-src/Makefile",
+		"/Users/matthew/Documents/C/lab3-src/command.cc",
+		"/Users/matthew/Documents/C/lab3-src/command.h",
+		"/Users/matthew/Documents/C/lab3-src/command2.cc",
+		"/Users/matthew/Documents/shell/monitor.sh",
+		"/Users/matthew/.zprezto/runcoms/zshrc",
+		"/Users/matthew/Downloads/a_data (1).dta",
+		"/Users/matthew/Documents/shell/Lab 2 Readme",
+		"/Users/matthew/Documents/pwcheck.sh",
+		"/Users/matthew/Documents/C/MyMalloc.c",
+		"/Users/matthew/Documents/C/MyMallocj.c",
+		"/Users/matthew/MyMallocOld.c",
+		"/Users/matthew/Downloads/tekton/TectonRolodex.xml",
+		"/Users/matthew/Downloads/tekton/RolodexData.xsd",
+		"/Users/matthew/MyMalloc.c",
+		"/Users/matthew/Documents/C/pimemdump.c",
+		"/Users/matthew/Documents/sections.txt",
+		"/Users/matthew/Documents/project4/project4/Song.java",
+		"/Users/matthew/Documents/project4/project4/SMMHeap.java",
+		"/Users/matthew/Documents/project4/project4/Project4.java",
+		"/Users/matthew/Documents/project4/project4/SongCollection.java",
+		"/Users/matthew/Documents/Java/Stack.java",
+		"/Users/matthew/Documents/Java/HashTableEntry.java",
+		"/Users/matthew/Documents/Java/HashTable.java",
+		"/Users/matthew/Documents/Java/ArrayList.java",
+		"/Users/matthew/Documents/Java/LinkedList.java",
+		"/Users/matthew/Documents/Java/Node.java",
+		"/Users/matthew/Documents/Assembly/cqs.c",
+		"/Users/matthew/Documents/Assembly/quicksort.s",
+		"/Users/matthew/Documents/Assembly/cbub.c",
+		"/Users/matthew/Documents/Assembly/bubble.s.old.s",
+		"/Users/matthew/Documents/Assembly/bubble.s",
+		"/Users/matthew/Documents/Assembly/quicksort.s.old.s",
+		"/Users/matthew/Documents/project3/project3/Bag.java",
+		"/Users/matthew/Documents/project3/project3/Graph.java",
+		"/Users/matthew/Documents/project3/project3/FlowNetwork.java",
+		"/Users/matthew/Documents/project3/project3/project3.java",
+		"/Users/matthew/Downloads/CS180/app/src/main/java/edu/purdue/gesserte/cs180/ClearListener.java",
+		"/Users/matthew/Documents/project3/project3/Queue.java",
+		"/Users/matthew/Documents/project2/project2p1/Project2Part1.java",
+		"/Users/matthew/Downloads/project3solution/Bus.java",
+		"/Users/matthew/Downloads/lab09solution/MP3.java",
+		"/Users/matthew/Downloads/lab09solution/Product.java",
+		"/Users/matthew/Documents/project2/project2p1/Project2Tester.java",
+		"/Users/matthew/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/matthew/Documents/project2/project2p1/Token.java",
+		"/Users/matthew/Documents/Java/BSTNode.java",
+		"/Users/matthew/Documents/Java/BST.java",
+		"/Users/matthew/Documents/Java/HashEntry.java",
+		"/Users/matthew/Downloads/Test.java",
+		"/Users/matthew/Downloads/MatrixGUI.java",
+		"/Users/matthew/Documents/Project1/WeightedQuickUnionUF.java",
+		"/Users/matthew/Documents/Project1/StdIn.java",
+		"/Users/matthew/Documents/Project1/Project1.java",
+		"/Users/matthew/Downloads/WebcatConnect4Test.java",
+		"/Users/matthew/Downloads/Homework9bTest.java",
+		"/Users/matthew/Documents/Project1/test.java",
+		"/Users/matthew/Documents/Project0/Token.java",
+		"/Users/matthew/Documents/Project0/Project0.java",
+		"/Users/matthew/Documents/C/smintf.c",
+		"/Users/matthew/Documents/Project0/data/expected_output1_data.txt",
+		"/Users/matthew/Downloads/connect4/Connect4.java",
+		"/Users/matthew/Documents/Project0/Token.class",
+		"/Users/matthew/Downloads/Purdue.CS.18000/Fall15/Projects/project02/Connect4Test.java",
+		"/Users/matthew/Downloads/Purdue.CS.18000/Fall15/Projects/project02/Connect4.java",
+		"/Users/matthew/Downloads/Purdue.CS.18000/Fall15/Projects/project02/WebcatConnect4Test.java",
+		"/Users/matthew/Downloads/Purdue.CS.18000/Fall15/Projects/project01/RiverCrossingPuzzle.java",
+		"/Users/matthew/Downloads/Purdue.CS.18000/Fall15/Projects/project03/VehicleManagementTest.java",
+		"/Users/matthew/Downloads/Purdue.CS.18000/Fall15/Projects/project03/Passenger.java",
+		"/Users/matthew/Downloads/Purdue.CS.18000/Summer15/Projects/Project5/SystemSolveTest.java",
+		"/Users/matthew/Downloads/Purdue.CS.18000/Fall15/Projects/project03/VehicleManagement.java",
+		"/Users/matthew/Downloads/Purdue.CS.18000/Fall15/Projects/project03/project03.sublime-project",
+		"/Users/matthew/Downloads/Purdue.CS.18000/Fall15/Projects/project03/Vehicle.java",
+		"/Users/matthew/Downloads/Purdue.CS.18000/Fall15/Projects/project03/Run.java",
+		"/Users/matthew/Downloads/Purdue.CS.18000/Fall15/Projects/project03/Route.java",
+		"/Users/matthew/Downloads/Purdue.CS.18000/Fall15/Projects/project03/Bus.java",
+		"/Users/matthew/Downloads/Purdue.CS.18000/Fall15/Projects/project03/Airplane.java",
+		"/Users/matthew/Downloads/Purdue.CS.18000/.gitignore",
+		"/Users/matthew/Downloads/Purdue.CS.18000/Summer15/Homeworks/hw07/HW07WebcatSumFactoryTest.java",
+		"/Users/matthew/Library/Application Support/Sublime Text 3/Packages/MacTerminal/Default.sublime-keymap",
+		"/Users/matthew/Library/Application Support/Sublime Text 3/Packages/MacTerminal/MacTerminal.sublime-settings",
+		"/Users/matthew/Library/Application Support/Sublime Text 3/Packages/User/MacTerminal.sublime-settings",
+		"/Users/matthew/Downloads/Purdue.CS.18000/Spring16/Projects/project02/ObstructionGameTest.java",
+		"/Users/matthew/Downloads/Purdue.CS.18000/Spring16/Projects/project02/ObstructionGame.java",
+		"/Users/matthew/Google Drive/Homework Development/summer15/hw07/SumFactoryTest.java",
+		"/Users/matthew/Downloads/Purdue.CS.18000/Summer15/Homeworks/hw07/HW07WebcatSumFactoryTest.backup.java",
+		"/Users/matthew/Downloads/Purdue.CS.18000/Spring15/Homework/HW14-BankAccount/HW14WebcatBankAccountTest.java",
+		"/Users/matthew/Downloads/Purdue.CS.18000/Spring16/Projects/project01/PlayerTest.java",
+		"/Users/matthew/Library/Application Support/Sublime Text 3/Packages/Git/Git.sublime-settings"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"dir_str",
+			"dir_name",
+			"->",
+			"err",
+			"err_response",
+			"Header",
+			"parse",
+			"ntop",
+			"queue",
+			" \n",
+			"exit",
+			"::exit",
+			"valid",
+			"{\n",
+			"currentComm",
+			"cout",
+			"constchar",
+			"sub",
+			"gete",
+			"log",
+			"_simple",
+			"push",
+			"current",
+			"_currentS",
+			"endl",
+			"cout",
+			"insert",
+			"._arguments",
+			"exec",
+			"cerr",
+			"NULL",
+			"isatt",
+			"char",
+			"builtinMap",
+			"disp",
+			"\\n",
+			"string",
+			"mem_",
+			"MAX",
+			"add",
+			"getM",
+			"remove",
+			"getH",
+			"remove",
+			"(char) c.check",
+			"adjList",
+			"integer",
+			"16",
+			"c.check",
+			"getBoardObj()",
+			"(char[][]) getAttribute(c, \"board\")",
+			"board",
+			" Class ",
+			"plus",
+			"getB"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"dir_path",
+			".",
+			"_currentCommand._simple",
+			"_currentCommand::_simple",
+			"Command::_simple",
+			"",
+			"0",
+			"adj",
+			"(char) c.check",
+			"c.board",
+			"getBoardObj()",
+			" Class<? extends Connect4> "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/matthew/Development/web/matthewess.github.io/index.htm",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 584,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								450,
+								450
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 548,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								197,
+								197
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 89.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 142.0
+	},
+	"pinned_build_system": "",
+	"project": "homepage.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/Java/homeworks/project02s/ObstructionGame.java"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Development/sublime/frontend.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 199.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

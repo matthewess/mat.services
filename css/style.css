@@ -3,21 +3,33 @@
     font-family: -apple-system, 'BlinkyMacSystemFont', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
+.content {
+    margin-top: 150px;
+}
+
 nav {
     background: #1e1e1e;
     border-radius: 5px;
     padding-top: 5px;
     padding-bottom: 5px;
+    margin-left: 200px;
+    margin-right: 200px;
     margin-top: -5px;
 }
 
 nav a {
-    padding:; 3px;
+    border: solid 1px;
+    border-radius: 5px;
+    padding: 3px;
     color: #f7f7f7;
 }
 
+nav a:hover {
+    color: #1e1e1e;
+    background: #f7f7f7;
+}
+
 nav a.active {
-    padding: 3px;
     color: #1e1e1e;
     background: #f7f7f7;
 }
