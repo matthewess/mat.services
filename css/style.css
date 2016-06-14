@@ -64,6 +64,10 @@ li a.active {
     li {
         display: inline;
     }
+
+    nav {
+        font-size: 20pt;
+    }
 }
 
 @media (max-width: 1000px) and (min-width: 340px) {
