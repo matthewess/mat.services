@@ -13,6 +13,11 @@
     font-weight: 300;
 }
 
+.tiny {
+  font-size: 10pt;
+  margin-top: 40;
+}
+
 #content {
     text-align: center;
     font-size: 14pt;
