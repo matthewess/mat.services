@@ -7,11 +7,11 @@
 </template>
 
 <script>
-import Hero from './components/Hero.vue';
-import Home from './containers/Home.vue';
-import Projects from './containers/Projects.vue';
-import Resume from './containers/Resume.vue';
-import Blog from './containers/Blog.vue';
+import Hero from '@/components/Hero';
+import Home from '@/containers/Home';
+import Projects from '@/containers/Projects';
+import Resume from '@/containers/Resume';
+import Blog from '@/containers/Blog';
 
 export default {
   name: 'App',
