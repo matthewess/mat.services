@@ -1,5 +1,5 @@
 <template lang="pug">
-#projects
+#projects.is-half.has-text-centered-mobile
   p.content check out my #[a(href='https://github.com/matthewess') github account]!
   h1.title #[a(href='https://github.com/matthewess/boilertalk-frontend') Boilertalk]
   p.content.
@@ -34,6 +34,9 @@ export default {
 </script>
 
 <style lang="sass" scoped>
-#projects
-  width: 50%
+@import '~bulma/sass/utilities/mixins'
+
++desktop
+  .is-half
+    width: 50%
 </style>

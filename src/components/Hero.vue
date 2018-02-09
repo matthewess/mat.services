@@ -24,8 +24,11 @@ export default {
 </script>
 
 <style lang="sass" scoped>
+@import '~bulma/sass/utilities/mixins'
+
 section
   margin-bottom: 2rem
-.is-three-quarters
-  width: 75%
++desktop
+  .is-three-quarters
+    width: 75%
 </style>

@@ -9,7 +9,6 @@
             i'm a communist, a
             #[a(href='https://mattandmack.website' target='_blank') spouse-to-be],
             a recently graduated student, and a software developer at yelp.
-      .tile.placeholder.notification.is-white
       .tile.is-9
         .notification.is-warning
           h1.title.is-4 what's inspiring me now
@@ -39,8 +38,3 @@ export default {
   name: 'Home',
 };
 </script>
-
-<style lang="sass" scoped>
-.placeholder
-  height: 1rem
-</style>

@@ -1,5 +1,5 @@
 <template lang="pug">
-#resume
+#resume.is-half.has-text-centered-mobile
   .content
     h1.title matthew ess
     h2.subtitle software developer
@@ -48,12 +48,15 @@ export default {
 </script>
 
 <style lang="sass" scoped>
+@import '~bulma/sass/utilities/mixins'
+
 $pink: #f8a5c2
 
 hr
   width: 75%
   height: 0.5rem
   background: $pink
-.content
-  width: 50%
++desktop
+  .is-half
+    width: 50%
 </style>
