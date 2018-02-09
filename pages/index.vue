@@ -30,5 +30,5 @@
               the point, however, is to change it."
     .tile.is-4
       figure.image
-        img(src='@/assets/img/me.png')
+        img(src='@/assets/img/me.jpg')
 </template>
