@@ -48,7 +48,7 @@ export default {
 </script>
 
 <style lang="sass" scoped>
-$pink: #ffa69e
+$pink: #f8a5c2
 
 hr
   width: 75%

@@ -3,7 +3,7 @@
   Hero(@setActive='tab => active = tab')
   .container
     component(:is='active')
-  footer.footer.white
+  footer.footer.blue
 </template>
 
 <script>
@@ -32,22 +32,26 @@ export default {
 @import '~bulma/sass/utilities/initial-variables'
 @import '~bulma/sass/utilities/functions'
 
-$pink: #ffa69e
+$pink: #f8a5c2
 $pink-invert: findColorInvert($pink)
-$mint: #a5ffd6
-$mint-invert: findColorInvert($mint)
-$red: #ff686b
-$red-invert: findColorInvert($red)
+$purple: #786fa6
+$purple-invert: findColorInvert($purple)
+$blue: #546de5
+$blue-invert: findColorInvert($blue)
+$charcoal: #3a435e
+$charcoal-invert: findColorInvert($charcoal)
 
 $primary: $pink
 $primary-invert: $pink-invert
-$info: $mint
-$info-invert: $mint-invert
-$danger: $red
-$danger-invert: $red-invert
+$info: $blue
+$info-invert: $blue-invert
+$danger: $purple
+$danger-invert: $purple-invert
+$warning: $charcoal
+$warning-invert: $charcoal-invert
 
 @import '~bulma/bulma'
 
-.white
+.blue
   background: white
 </style>
