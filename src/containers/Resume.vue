@@ -3,14 +3,14 @@
   .content
     h1.title matthew ess
     h2.subtitle software developer
-    hr
+    hr.is-three-quarters
     h2.subtitle education
     p.
       purdue university, west lafayette, IN #[br]
       B.S. in computer science, minor in political science #[br]
       may 2018 #[br]
       3.90 gpa
-    hr
+    hr.is-three-quarters
     h2.subtitle experience
     p.has-text-weight-semibold software engineer @ yelp: summer 2018 - present
     p.
@@ -24,7 +24,7 @@
       i worked on a very small team of talented engineers writing backend
       PHP and javascript microservices for an athletic and educational
       scheduling web app.
-    hr
+    hr.is-three-quarters
     h2.subtitle skills
     .columns
       .column
@@ -53,10 +53,11 @@ export default {
 $pink: #f8a5c2
 
 hr
-  width: 75%
   height: 0.5rem
   background: $pink
 +desktop
+  .is-three-quarters
+    width: 75%
   .is-half
     width: 50%
 </style>
