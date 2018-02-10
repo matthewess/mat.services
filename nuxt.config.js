@@ -29,11 +29,6 @@ module.exports = {
           loader: 'eslint-loader',
           exclude: /(node_modules)/,
         });
-        config.module.rules.push({
-          test: /\.md$/,
-          loader: 'vue-markdown-loader',
-          exclude: /(node_modules)/,
-        });
       }
     },
   },

@@ -4,6 +4,9 @@ module.exports = {
     browser: true,
     node: true
   },
+  settings: {
+    'import/resolver': 'webpack',
+  },
   parserOptions: {
     parser: 'babel-eslint'
   },
