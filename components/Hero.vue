@@ -13,8 +13,6 @@ section.hero.is-primary.is-bold.is-medium(v-once)
           nuxt-link(to='/projects') projects
         li
           nuxt-link(to='/resume') resume
-        li
-          nuxt-link(to='/blog') blog
 </template>
 
 <style lang="sass" scoped>

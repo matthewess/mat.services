@@ -28,7 +28,7 @@
             p.content.
               "the philosophers have only interpreted the world, in various ways.
               the point, however, is to change it."
-    .tile.is-4
+    .tile.is-3
       figure.image
         img(src='@/assets/img/me.jpg')
 </template>
