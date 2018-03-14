@@ -44,11 +44,11 @@
 <style lang="sass" scoped>
 @import '~bulma/sass/utilities/mixins'
 
-$pink: #f8a5c2
+$background: #BD271A
 
 hr
   height: 0.5rem
-  background: $pink
+  background: $background
 +desktop
   .is-three-quarters
     width: 75%
