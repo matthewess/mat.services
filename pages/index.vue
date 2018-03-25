@@ -14,8 +14,8 @@
           h1.title.is-4 what's inspiring me now
           .content
             p david lynch's twin peaks
-            p the musical stylings of #[a(href='https://mitski.com/' target='_blank') mitski]
-            p jeff vandermeer's southern reach trilogy
+            p louis brennan's #[a(href='https://louisbrennan.bandcamp.com/album/dead-capital' target='_blank') dead capital]
+            p vladimir lenin's 'imperialism: the highest stage of capitalism'
     .tile.is-4
       .tile.is-9
         .notification.is-danger
